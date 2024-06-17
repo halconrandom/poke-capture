@@ -1,6 +1,14 @@
-body{
-  background: rgb(0,12,41);
-  background: linear-gradient(180deg, rgba(0,12,41,1) 0%, rgba(9,9,121,1) 64%, rgba(255,255,255,1) 100%);
+body {
+  background: rgb(255, 0, 0);
+  background: linear-gradient(
+    190deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(136, 39, 39, 1) 62%
+  );
   background-attachment: fixed;
 }
-
+.logotypeMainTwo {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Types } from "./Types";
+import { BoxPoke } from "./boxPoke/BoxPoke";
 
 export const Pokedex = () => {
   const MAX_POKEMON = 493;
@@ -55,7 +56,7 @@ export const Pokedex = () => {
 
   return (
     <div>
-      <h1>Pokedex</h1>
+      <h1></h1>
       {!selectedPokemon && (
         <input
           type="text"
@@ -65,13 +66,7 @@ export const Pokedex = () => {
         />
       )}
       {!selectedPokemon ? (
-        <ul>
-          {filteredPokemons.map((pokemon, index) => (
-            <li key={index} onClick={() => handlePokemonClick(pokemon.url)}>
-              {pokemon.name}
-            </li>
-          ))}
-        </ul>
+        <BoxPoke pokemons={filteredPokemons} onPokemonClick={handlePokemonClick} />
       ) : (
         <div>
           <h2>{selectedPokemon.name}</h2>
