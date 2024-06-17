@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pokecapture/build/static/css/main.dafc37a0.css",
-    "main.js": "/pokecapture/build/static/js/main.12a05cf2.js",
-    "static/js/453.29a693f3.chunk.js": "/pokecapture/build/static/js/453.29a693f3.chunk.js",
-    "static/media/logo.png": "/pokecapture/build/static/media/logo.3da9fa257259cfbeaeae.png",
-    "static/media/logo2.png": "/pokecapture/build/static/media/logo2.7ce8e62254887354f74d.png",
-    "index.html": "/pokecapture/build/index.html",
-    "main.dafc37a0.css.map": "/pokecapture/build/static/css/main.dafc37a0.css.map",
-    "main.12a05cf2.js.map": "/pokecapture/build/static/js/main.12a05cf2.js.map",
-    "453.29a693f3.chunk.js.map": "/pokecapture/build/static/js/453.29a693f3.chunk.js.map"
+    "main.css": "/poke-capture/build/static/css/main.dafc37a0.css",
+    "main.js": "/poke-capture/build/static/js/main.1dd5d55e.js",
+    "static/js/453.29a693f3.chunk.js": "/poke-capture/build/static/js/453.29a693f3.chunk.js",
+    "static/media/logo.png": "/poke-capture/build/static/media/logo.3da9fa257259cfbeaeae.png",
+    "static/media/logo2.png": "/poke-capture/build/static/media/logo2.7ce8e62254887354f74d.png",
+    "index.html": "/poke-capture/build/index.html",
+    "main.dafc37a0.css.map": "/poke-capture/build/static/css/main.dafc37a0.css.map",
+    "main.1dd5d55e.js.map": "/poke-capture/build/static/js/main.1dd5d55e.js.map",
+    "453.29a693f3.chunk.js.map": "/poke-capture/build/static/js/453.29a693f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dafc37a0.css",
-    "static/js/main.12a05cf2.js"
+    "static/js/main.1dd5d55e.js"
   ]
 }
