@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pokecapture/static/css/main.dafc37a0.css",
+    "main.js": "/pokecapture/static/js/main.3a1de128.js",
+    "static/js/453.29a693f3.chunk.js": "/pokecapture/static/js/453.29a693f3.chunk.js",
+    "static/media/logo.png": "/pokecapture/static/media/logo.3da9fa257259cfbeaeae.png",
+    "static/media/logo2.png": "/pokecapture/static/media/logo2.7ce8e62254887354f74d.png",
+    "index.html": "/pokecapture/index.html",
+    "main.dafc37a0.css.map": "/pokecapture/static/css/main.dafc37a0.css.map",
+    "main.3a1de128.js.map": "/pokecapture/static/js/main.3a1de128.js.map",
+    "453.29a693f3.chunk.js.map": "/pokecapture/static/js/453.29a693f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafc37a0.css",
+    "static/js/main.3a1de128.js"
+  ]
+}
